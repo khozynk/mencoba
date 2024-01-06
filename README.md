@@ -1,2 +1,2 @@
 # mencoba
-tugas 
+belajar jalur front end
